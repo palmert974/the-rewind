@@ -2,5 +2,5 @@
 builder = "nixpacks"
 
 [deploy]
-startCommand = "dotnet TheRewind.dll"
+startCommand = "dotnet out/TheRewind.dll"
 healthcheckPath = "/"
