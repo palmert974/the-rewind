@@ -1,0 +1,15 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+
+## Environment
+appsettings.Development.json
+.env
+
+## OS
+.DS_Store
+Thumbs.db
